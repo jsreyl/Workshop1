@@ -1,0 +1,37 @@
+.contenedor{
+    width: 1200px;
+    text-align: justify;
+    background-color: ghostwhite;
+}
+.cabecera{
+
+}
+.lista{
+    
+    }
+.menuPrincipal{
+    text-align: right;
+    list-style: none;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.enlace:hover{
+    font-weight: bold;
+}
+.sección{
+    height: 250px;
+}
+.servicios2{
+    width: 33%;
+    height: 150px;
+    background-color: aquamarine;
+    display: inline-block;
+    text-align: center;
+}
+.equipo4{
+    width: 19.7%;
+    height: 150px;
+    background-color: greenyellow;
+    display: inline-block;
+}
